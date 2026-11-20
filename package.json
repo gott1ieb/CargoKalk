@@ -1,0 +1,14 @@
+{
+  "name": "cargokalk",
+  "version": "1.0.0",
+  "description": "Kalkulačka nákladov na prepravu a porovnanie dopravcov",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
