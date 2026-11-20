@@ -27,4 +27,4 @@ Potrebný je Node.js 18 alebo novší. Projekt nemá žiadne externé závislost
 2. Railway: New Project → Deploy from GitHub repo → vyberte repozitár.
 3. Settings → Networking → Generate Domain. Port nájdete v záznamoch (riadok `CargoKalk listening on port …`).
 
-Vypracoval: Hlib Rozynka
+Vypracoval: Andrii Chyhorka
